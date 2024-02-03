@@ -1,2 +1,2 @@
 # Flashyy
-Learning French simplified
+Learning new language simplified.
