@@ -1,4 +1,4 @@
-# Flashy
+# Flashyy
 
 Flashy is a simple flashcard application built with Python's Tkinter and Pandas libraries. It helps users learn French words by displaying them on flashcards and allowing users to test their knowledge.
 
