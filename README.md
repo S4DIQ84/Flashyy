@@ -38,8 +38,8 @@ Flashy is a simple flashcard application built with Python's Tkinter and Pandas 
 
 ## Author
 
-Mohammed Sadiq Ali
-Project from: Udemy
+- **Mohammed Sadiq Ali
+- **Project from: Udemy
 
 ## License
 
