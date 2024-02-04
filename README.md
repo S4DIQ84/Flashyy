@@ -34,13 +34,12 @@ Flashy is a simple flashcard application built with Python's Tkinter and Pandas 
 ![Flashy Screenshot](images/flashy_screenshot.png)
 
 ## Acknowledgments
-
-- Flashcard images provided by [example.com](https://example.com).
 - French words dataset inspired by [french-words-dataset](https://github.com/ayoubfakir/french-words-dataset).
 
 ## Author
 
-[Your Name]
+Mohammed Sadiq Ali
+Project from: Udemy
 
 ## License
 
