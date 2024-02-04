@@ -9,7 +9,7 @@ si_no = None
 
 
 
-#-------------------------New Flash---------------------------------------
+#-------------------------Functions---------------------------------------
 
 
 def correct_button():
@@ -45,7 +45,7 @@ def remove():
 
 #-------------------------------UI----------------------------------------
 window = Tk()
-window.title("Flashy")
+window.title("Flashyy")
 window.config(padx=50, pady=40,background=BACKGROUND_COLOR)
 
 canvas = Canvas(window,height=526, width=800, background=BACKGROUND_COLOR, borderwidth=0, highlightthickness=0)
@@ -69,7 +69,5 @@ wrong_img = PhotoImage(file="images/wrong.png")
 wrong_button = Button(image=wrong_img, command=correct_button)
 wrong_button.grid(row=1, column=1)
 window.after(3000, func=english_button)
-
-
 
 window.mainloop()
